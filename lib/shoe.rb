@@ -51,3 +51,4 @@ end
 
 shoe = Shoe.new("Addidas")
 shoe.cobble
+shoe.condition
