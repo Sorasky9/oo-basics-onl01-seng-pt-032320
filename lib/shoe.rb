@@ -34,7 +34,7 @@ def material
 end
 
 def condition=(condition)
-  @condition = new
+  @condition = condition
 end
 
 def condition
