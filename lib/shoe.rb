@@ -43,7 +43,7 @@ end
 
 
 def cobble(condition = "new")
-  @condition = new
+  @condition = condition
   puts "Your shoe is as good as new!"
 end
 
